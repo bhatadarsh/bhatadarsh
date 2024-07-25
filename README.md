@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game design and app development
 - 🌱 I’m currently learning c,java
 - 💞️ I’m looking to collaborate on anything we both have in common.
-- 📫 How to reach me ahhh mail me on bhatadarsh11@gmail.com
+- 📫 How to reach me... mail me on bhatadarsh11@gmail.com
 
 <!---
 bhatadarsh/bhatadarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
