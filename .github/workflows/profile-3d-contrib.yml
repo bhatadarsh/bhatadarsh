@@ -40,3 +40,4 @@ jobs:
           create_branch: true
           push_options: "--force"
           file_pattern: "profile-3d-contrib/* dist/*"
+

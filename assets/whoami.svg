@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850" height="380" viewBox="0 0 850 380" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Fira Code', 'Consolas', monospace">
+  <defs>
+    <linearGradient id="borderGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer glow border -->
+  <rect x="1" y="1" width="848" height="378" rx="14" fill="none" stroke="url(#borderGlow)" stroke-width="1.5" filter="url(#glow)"/>
+  <!-- Window body -->
+  <rect x="2" y="2" width="846" height="376" rx="13" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <!-- Title bar -->
+  <rect x="2" y="2" width="846" height="38" rx="13" fill="#161B22"/>
+  <rect x="2" y="28" width="846" height="12" fill="#161B22"/>
+  <!-- Title bar bottom border -->
+  <line x1="2" y1="40" x2="848" y2="40" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="30" cy="21" r="6" fill="#FF5F56"/>
+  <circle cx="52" cy="21" r="6" fill="#FFBD2E"/>
+  <circle cx="74" cy="21" r="6" fill="#27C93F"/>
+
+  <!-- Terminal title -->
+  <text x="425" y="26" text-anchor="middle" fill="#8B949E" font-size="12" font-weight="400">adarsh@cloud-ai-devops: ~/profile &#8212; zsh</text>
+
+  <!-- Accent glow top bar line -->
+  <rect x="2" y="39" width="846" height="2" fill="#7aa2f7" opacity="0.15"/>
+
+  <!-- VERTICAL DIVIDER -->
+  <line x1="435" y1="52" x2="435" y2="368" stroke="#21262D" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- ═══════════ LEFT PANEL ═══════════ -->
+  <!-- Prompt line -->
+  <text x="22" y="72" font-size="12">
+    <tspan fill="#7aa2f7">➜</tspan>
+    <tspan fill="#9ece6a" dx="6">~/profile</tspan>
+    <tspan fill="#c0caf5" dx="6">$</tspan>
+    <tspan fill="#c0caf5" dx="6">cat whoami.yml</tspan>
+  </text>
+
+  <!-- YAML content -->
+  <!-- role -->
+  <text x="22" y="100" font-size="11.5" fill="#bb9af7">role</text>
+  <text x="68" y="100" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="80" y="100" font-size="11.5" fill="#9ece6a">"Associate Software Engineer"</text>
+
+  <!-- focus -->
+  <text x="22" y="120" font-size="11.5" fill="#bb9af7">focus</text>
+  <text x="75" y="120" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="87" y="120" font-size="11.5" fill="#9ece6a">"Cloud, DevOps &amp; Applied AI"</text>
+
+  <!-- location -->
+  <text x="22" y="140" font-size="11.5" fill="#bb9af7">location</text>
+  <text x="90" y="140" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="102" y="140" font-size="11.5" fill="#9ece6a">"Yellapur, Karnataka, India"</text>
+
+  <!-- education -->
+  <text x="22" y="160" font-size="11.5" fill="#bb9af7">education</text>
+  <text x="97" y="160" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="109" y="160" font-size="11.5" fill="#9ece6a">"B.E. CS &amp; Design — CGPA 8.3"</text>
+
+  <!-- experience heading -->
+  <text x="22" y="188" font-size="11.5" fill="#bb9af7">experience</text>
+  <text x="104" y="188" font-size="11.5" fill="#c0caf5">:</text>
+
+  <!-- Exp 1 -->
+  <text x="34" y="208" font-size="11.5" fill="#c0caf5">-</text>
+  <text x="46" y="208" font-size="11.5" fill="#7aa2f7">role</text>
+  <text x="74" y="208" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="82" y="208" font-size="11.5" fill="#9ece6a">"DevOps Intern"</text>
+  <text x="46" y="224" font-size="11.5" fill="#7aa2f7">org</text>
+  <text x="68" y="224" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="76" y="224" font-size="11.5" fill="#e0af68">"Sigmoid Technologies"</text>
+  <text x="46" y="240" font-size="11.5" fill="#7aa2f7">period</text>
+  <text x="92" y="240" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="100" y="240" font-size="11.5" fill="#8B949E">"Jan 2026 &#8212; Jun 2026"</text>
+
+  <!-- Exp 2 -->
+  <text x="34" y="262" font-size="11.5" fill="#c0caf5">-</text>
+  <text x="46" y="262" font-size="11.5" fill="#7aa2f7">role</text>
+  <text x="74" y="262" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="82" y="262" font-size="11.5" fill="#9ece6a">"Cloud &amp; DevOps Intern"</text>
+  <text x="46" y="278" font-size="11.5" fill="#7aa2f7">org</text>
+  <text x="68" y="278" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="76" y="278" font-size="11.5" fill="#e0af68">"MicroDegree"</text>
+  <text x="46" y="294" font-size="11.5" fill="#7aa2f7">period</text>
+  <text x="92" y="294" font-size="11.5" fill="#c0caf5">:</text>
+  <text x="100" y="294" font-size="11.5" fill="#8B949E">"Sep 2025 &#8212; Dec 2025"</text>
+
+  <!-- Blinking cursor -->
+  <rect x="22" y="315" width="8" height="14" fill="#7aa2f7" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ═══════════ RIGHT PANEL ═══════════ -->
+  <!-- Prompt line -->
+  <text x="452" y="72" font-size="12">
+    <tspan fill="#7aa2f7">➜</tspan>
+    <tspan fill="#9ece6a" dx="6">~/profile</tspan>
+    <tspan fill="#c0caf5" dx="6">$</tspan>
+    <tspan fill="#c0caf5" dx="6">ls ./certifications</tspan>
+  </text>
+
+  <!-- Cert 1: AWS -->
+  <rect x="452" y="88" width="376" height="58" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect x="452" y="88" width="4" height="58" rx="2" fill="#FF9900"/>
+  <text x="466" y="109" font-size="12" font-weight="600" fill="#c0caf5">AWS Cloud Certification</text>
+  <text x="466" y="128" font-size="11" fill="#8B949E">MicroDegree  &#183;  EC2, S3, IAM, VPC, CloudWatch</text>
+  <text x="800" y="128" font-size="10" fill="#FF9900" text-anchor="end">☁️ CLOUD</text>
+
+  <!-- Cert 2: NPTEL -->
+  <rect x="452" y="156" width="376" height="58" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect x="452" y="156" width="4" height="58" rx="2" fill="#7aa2f7"/>
+  <text x="466" y="177" font-size="12" font-weight="600" fill="#c0caf5">Cloud Computing &#8212; 80%</text>
+  <text x="466" y="196" font-size="11" fill="#8B949E">NPTEL  &#183;  Cloud Architecture Fundamentals</text>
+  <text x="800" y="196" font-size="10" fill="#7aa2f7" text-anchor="end">🧮 NPTEL</text>
+
+  <!-- Cert 3: Google AI -->
+  <rect x="452" y="224" width="376" height="58" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect x="452" y="224" width="4" height="58" rx="2" fill="#4285F4"/>
+  <text x="466" y="245" font-size="12" font-weight="600" fill="#c0caf5">Google AI Essentials</text>
+  <text x="466" y="264" font-size="11" fill="#8B949E">Google  &#183;  Applied AI, Gemini, Prompt Eng.</text>
+  <text x="800" y="264" font-size="10" fill="#4285F4" text-anchor="end">🤖 GOOGLE</text>
+
+  <!-- Cert 4: TuteDude -->
+  <rect x="452" y="292" width="376" height="58" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect x="452" y="292" width="4" height="58" rx="2" fill="#bb9af7"/>
+  <text x="466" y="313" font-size="12" font-weight="600" fill="#c0caf5">DevOps Certification</text>
+  <text x="466" y="332" font-size="11" fill="#8B949E">TuteDude  &#183;  Docker, K8s, CI/CD, Jenkins</text>
+  <text x="800" y="332" font-size="10" fill="#bb9af7" text-anchor="end">⚙️ DEVOPS</text>
+</svg>
+
