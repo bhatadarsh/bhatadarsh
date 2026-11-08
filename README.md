@@ -26,57 +26,105 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider"/>
-</p>
+<!-- ═══════════════════════════════════════ -->
+<!-- TERMINAL PROFILE -->
+<!-- ═══════════════════════════════════════ -->
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></p>
 
 <div align="center">
-  <img src="assets/whoami.svg" width="100%" alt="Terminal Profile" />
+  <img src="assets/whoami.svg" width="100%" alt="Terminal Profile"/>
 </div>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider"/>
-</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></p>
 
-<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════ -->
+<!-- SYSTEM ARCHITECTURE MATRIX -->
+<!-- ═══════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://img.shields.io/badge/⚡_ARCHITECTURE_%26_TOOLS-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="Tech Stack Badge" />
-  <h3>Cloud, DevOps &amp; Applied AI Stack</h3>
+  <img src="https://img.shields.io/badge/⚡_SYSTEM_ARCHITECTURE_MATRIX-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="Architecture"/>
+  <h3>Production-Grade Engineering Stack</h3>
 </div>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-<p><b>☁️ Cloud, DevOps &amp; Infrastructure</b></p>
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,github,prometheus,grafana,bash&theme=dark" alt="Cloud &amp; DevOps Icons"/>
+<br/>
+
+**☁️ Cloud, Infrastructure &amp; Container Orchestration**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,linux,bash&theme=dark" alt="Cloud Icons"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=7AA2F7&labelColor=161B22" alt="Helm"/>
+
+<br/>
+
+*Declarative IaC, multi-cluster K8s &amp; zero-downtime delivery*
+
+<br/>
+
+</td>
+<td align="center" width="50%">
+
+<br/>
+
+**🔍 SRE, Observability &amp; CI/CD**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,githubactions,jenkins,git&theme=dark" alt="SRE Icons"/>
+
+<br/><br/>
+
+*Alert-as-code pipelines, log aggregation &amp; anomaly detection*
+
+<br/>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-<p><b>⚙️ Backend, Data &amp; Search</b></p>
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,mongodb,redis,supabase,elasticsearch,git&theme=dark" alt="Backend &amp; Database Icons"/>
+<br/>
+
+**🤖 Agentic AI &amp; LLM Orchestration**
+
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=python&logoColor=7AA2F7&labelColor=161B22" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=BB9AF7&labelColor=161B22" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Groq_Llama--3-0D1117?style=flat-square&logo=meta&logoColor=7AA2F7&labelColor=161B22" alt="Groq"/>
+<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=google&logoColor=4285F4&labelColor=161B22" alt="Gemini"/>
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=BB9AF7&labelColor=161B22" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=python&logoColor=9ECE6A&labelColor=161B22" alt="ChromaDB"/>
+
+<br/>
+
+*Stateful multi-agent pipelines, RAG &amp; semantic search*
+
+<br/>
 
 </td>
-</tr>
-<tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-<p><b>🤖 Applied AI &amp; Agentic LLM Orchestration</b></p>
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=python&logoColor=7aa2f7&labelColor=161B22" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=bb9af7&labelColor=161B22" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Groq_Llama--3-0D1117?style=for-the-badge&logo=meta&logoColor=7aa2f7&labelColor=161B22" alt="Groq Llama-3"/>
-  <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=161B22" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=bb9af7&labelColor=161B22" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=python&logoColor=7aa2f7&labelColor=161B22" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Helm-0D1117?style=for-the-badge&logo=helm&logoColor=bb9af7&labelColor=161B22" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=161B22" alt="Streamlit"/>
-</p>
+<br/>
+
+**⚙️ Backend, Data &amp; High-Concurrency Systems**
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,redis,supabase,nextjs,ts&theme=dark" alt="Backend Icons"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Celery-0D1117?style=flat-square&logo=celery&logoColor=9ECE6A&labelColor=161B22" alt="Celery"/>
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B&labelColor=161B22" alt="Streamlit"/>
+
+<br/>
+
+*Async event-driven APIs, polyglot storage &amp; task queues*
+
+<br/>
 
 </td>
 </tr>
@@ -84,15 +132,21 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider"/>
-</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></p>
 
+<!-- ═══════════════════════════════════════ -->
+<!-- TELEMETRY STRIP -->
+<!-- ═══════════════════════════════════════ -->
+
+<p align="center"><img src="assets/telemetry.svg" width="100%" alt="System Telemetry"/></p>
+
+<!-- ═══════════════════════════════════════ -->
 <!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_FEATURED_SYSTEMS-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="Featured Systems" />
-  <h3>Engineered Systems &amp; Production Architectures</h3>
-  <p>Production platforms, AI orchestration pipelines, and cloud infrastructure spanning private and public systems.</p>
+  <img src="https://img.shields.io/badge/🚀_ENGINEERED_SYSTEMS-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="Featured"/>
+  <h3>Production Architectures &amp; Platforms</h3>
 </div>
 
 <br/>
@@ -103,61 +157,114 @@
 <tr>
 <td width="50%" valign="top">
 
-<img align="right" src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+<p>
+  <img src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+</p>
 
 ### 🧠 AI HirePro Enterprise
+
 *Recruitment Automation &amp; Agentic LLM Orchestration*
 
-End-to-end recruitment pipeline orchestrating 6 stateful LangGraph agents for JD parsing, semantic scoring, and AI interviews. Features OnboardGuard verification across government identity documents with zero manual review.
+<p>
+  <img src="https://img.shields.io/badge/⚡_6_Stateful_Agents-161B22?style=flat-square&labelColor=0D1117&color=7AA2F7" alt="Agents"/>
+  <img src="https://img.shields.io/badge/🛡️_Zero_Manual_Review-161B22?style=flat-square&labelColor=0D1117&color=9ECE6A" alt="Automated"/>
+  <img src="https://img.shields.io/badge/🔍_LangSmith_Traced-161B22?style=flat-square&labelColor=0D1117&color=BB9AF7" alt="Traced"/>
+</p>
 
-<br/>
+End-to-end recruitment pipeline orchestrating 6 stateful LangGraph agents — JD parsing, semantic scoring, gap analysis, AI interviews via Groq Llama-3, and OnboardGuard identity verification across Aadhar/PAN/I-9 documents.
 
-<kbd>LangGraph</kbd> <kbd>FastAPI</kbd> <kbd>Groq Llama-3</kbd> <kbd>ChromaDB</kbd> <kbd>Docker</kbd> <kbd>LangSmith</kbd>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=python&logoColor=7AA2F7&labelColor=161B22" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=9ECE6A&labelColor=161B22" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=meta&logoColor=7AA2F7&labelColor=161B22" alt="Groq"/>
+  <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=python&logoColor=BB9AF7&labelColor=161B22" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=161B22" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=7AA2F7&labelColor=161B22" alt="PostgreSQL"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://nex-assess.vercel.app"><img align="right" src="https://img.shields.io/badge/🚀_Live_Demo-161B22?style=flat-square&labelColor=0D1117&color=9ece6a" alt="Live Demo"/></a>
-<img align="right" src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+<p>
+  <img src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+  <a href="https://nex-assess.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-161B22?style=flat-square&labelColor=0D1117&color=9ece6a" alt="Live Demo"/></a>
+</p>
 
 ### 🎯 NexAssess
-*Self-Hosted Technical Assessment &amp; Proctoring Platform*
 
-Production online assessment platform with AI proctoring, real-time risk scoring, and role-based access control. Validated by 507 automated tests with automated CI/CD deployment on Vercel backed by PostgreSQL.
+*Self-Hosted AI Assessment &amp; Proctoring Platform*
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/✅_507_Automated_Tests-161B22?style=flat-square&labelColor=0D1117&color=9ECE6A" alt="Tests"/>
+  <img src="https://img.shields.io/badge/🎥_Real--Time_WebRTC-161B22?style=flat-square&labelColor=0D1117&color=7AA2F7" alt="WebRTC"/>
+  <img src="https://img.shields.io/badge/⚡_Vercel_Edge-161B22?style=flat-square&labelColor=0D1117&color=BB9AF7" alt="Edge"/>
+</p>
 
-<kbd>Next.js 15</kbd> <kbd>TypeScript</kbd> <kbd>Prisma</kbd> <kbd>PostgreSQL</kbd> <kbd>Supabase</kbd> <kbd>PWA</kbd>
+Production HackerRank/Mettl alternative with AI proctoring — real-time webcam risk scoring, RBAC (Admin/Recruiter/Candidate), and zero per-candidate cost. 507 Jest + Playwright tests gate every CI deployment.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js_15-0D1117?style=flat-square&logo=nextdotjs&logoColor=ffffff&labelColor=161B22" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161B22" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=7AA2F7&labelColor=161B22" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E&labelColor=161B22" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=BB9AF7&labelColor=161B22" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=161B22" alt="Vercel"/>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img align="right" src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+<p>
+  <img src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+</p>
 
 ### 🏗️ Three-Tier EKS IaC
-*Cloud Infrastructure as Code on AWS*
 
-Production Terraform modules provisioning VPC, EKS cluster, managed node groups, and Helm microservices. Features dual-layer auto-scaling via Cluster Autoscaler and Horizontal Pod Autoscaler with AWS ALB Ingress.
+*Production Kubernetes on AWS — Infrastructure as Code*
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/☸️_HPA_+_Cluster_Autoscaler-161B22?style=flat-square&labelColor=0D1117&color=7AA2F7" alt="Autoscaling"/>
+  <img src="https://img.shields.io/badge/🔒_Least--Privilege_IAM-161B22?style=flat-square&labelColor=0D1117&color=BB9AF7" alt="IAM"/>
+</p>
 
-<kbd>Terraform</kbd> <kbd>AWS EKS</kbd> <kbd>Kubernetes</kbd> <kbd>Helm</kbd> <kbd>Docker</kbd> <kbd>ECR</kbd>
+Complete IaC: Terraform provisions VPC, EKS cluster, and node groups. Helm deploys microservices with Ingress via AWS ALB Controller. Dual-layer autoscaling (HPA + Cluster Autoscaler) for pod and node-level elasticity.
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=7B42BC&labelColor=161B22" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/AWS_EKS-0D1117?style=flat-square&logo=amazoneks&logoColor=FF9900&labelColor=161B22" alt="EKS"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=161B22" alt="K8s"/>
+  <img src="https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=7AA2F7&labelColor=161B22" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=161B22" alt="Docker"/>
+  <img src="https://img.shields.io/badge/ECR-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=161B22" alt="ECR"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<img align="right" src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+<p>
+  <img src="https://img.shields.io/badge/🔒_Private-161B22?style=flat-square&labelColor=0D1117&color=bb9af7" alt="Private"/>
+</p>
 
 ### 📊 SRE Monitoring Stack
+
 *Declarative Observability &amp; Alerting Pipeline*
 
-Declarative observability stack automating Prometheus scraping and custom threshold alerting for cluster anomalies. Alertmanager inhibition rules prevent cascading storms, synchronized continuously via Jenkins CI/CD.
+<p>
+  <img src="https://img.shields.io/badge/📡_Alert--as--Code-161B22?style=flat-square&labelColor=0D1117&color=7AA2F7" alt="Alert-as-Code"/>
+  <img src="https://img.shields.io/badge/🛡️_Inhibition_Rules-161B22?style=flat-square&labelColor=0D1117&color=9ECE6A" alt="Inhibition"/>
+</p>
 
-<br/>
+Production-grade Prometheus + Alertmanager stack with custom threshold alerting for CPU, pod restarts, and service unavailability. Alertmanager inhibition rules prevent cascading storms. Jenkins pipeline automates full stack deployment on every config commit.
 
-<kbd>Prometheus</kbd> <kbd>Alertmanager</kbd> <kbd>Grafana</kbd> <kbd>Jenkins</kbd> <kbd>Linux</kbd> <kbd>YAML</kbd>
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=E6522C&labelColor=161B22" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Alertmanager-0D1117?style=flat-square&logo=prometheus&logoColor=BB9AF7&labelColor=161B22" alt="Alertmanager"/>
+  <img src="https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=F46800&labelColor=161B22" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=161B22" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624&labelColor=161B22" alt="Linux"/>
+</p>
 
 </td>
 </tr>
@@ -171,163 +278,266 @@ Declarative observability stack automating Prometheus scraping and custom thresh
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://github.com/bhatadarsh/Automated-Pipeline-Debugger"><img align="right" src="https://img.shields.io/badge/🌐_Public-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+<p>
+  <a href="https://github.com/bhatadarsh/Automated-Pipeline-Debugger"><img src="https://img.shields.io/badge/🌐_Public_Repo-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+</p>
 
 ### 🤖 [Pipeline Debugger](https://github.com/bhatadarsh/Automated-Pipeline-Debugger)
+
 *AI-Powered DevOps Automation*
 
-Autonomous Airflow incident resolver using Celery workers to capture task failures, OpenAI to diagnose tracebacks, and Slack SDK to push structured root-cause fixes.
+Autonomous Airflow incident resolver — Celery workers capture task failures, OpenAI diagnoses tracebacks, Slack delivers structured root-cause fixes.
 
-<br/>
-
-<kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>Celery</kbd> <kbd>Redis</kbd> <kbd>OpenAI</kbd> <kbd>Airflow</kbd>
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=7AA2F7&labelColor=161B22" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=9ECE6A&labelColor=161B22" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Celery-0D1117?style=flat-square&logo=celery&logoColor=9ECE6A&labelColor=161B22" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D&labelColor=161B22" alt="Redis"/>
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=BB9AF7&labelColor=161B22" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=7AA2F7&labelColor=161B22" alt="Airflow"/>
+</p>
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/bhatadarsh/NL2SQL-Task"><img align="right" src="https://img.shields.io/badge/🌐_Public-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+<p>
+  <a href="https://github.com/bhatadarsh/NL2SQL-Task"><img src="https://img.shields.io/badge/🌐_Public_Repo-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+</p>
 
 ### 💬 [NL2SQL Analyst](https://github.com/bhatadarsh/NL2SQL-Task)
+
 *Natural Language BigQuery Analytics*
 
-Translates conversational queries into BigQuery SQL with safety validation guardrails, automated data visualizations, and AI narratives in Streamlit.
+Plain-English question → Gemini generates SQL → BigQuery executes → auto-charts + AI-powered business narrative with query safety guardrails.
 
-<br/>
-
-<kbd>Python</kbd> <kbd>Gemini API</kbd> <kbd>BigQuery</kbd> <kbd>Streamlit</kbd> <kbd>Pandas</kbd>
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=7AA2F7&labelColor=161B22" alt="Python"/>
+  <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=google&logoColor=4285F4&labelColor=161B22" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/BigQuery-0D1117?style=flat-square&logo=googlebigquery&logoColor=7AA2F7&labelColor=161B22" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B&labelColor=161B22" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=BB9AF7&labelColor=161B22" alt="Pandas"/>
+</p>
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/bhatadarsh/keyword-rank-tracker"><img align="right" src="https://img.shields.io/badge/🌐_Public-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+<p>
+  <a href="https://github.com/bhatadarsh/keyword-rank-tracker"><img src="https://img.shields.io/badge/🌐_Public_Repo-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+</p>
 
 ### 📈 [Rank Tracker](https://github.com/bhatadarsh/keyword-rank-tracker)
+
 *Full-Stack SERP Intelligence*
 
-Automated Google SERP rank tracking platform across localized geographic regions, languages, and device profiles with dual-mode SQLite and PostgreSQL support.
+Automated Google SERP rank tracker across countries, languages, and device profiles with dual-mode SQLite/PostgreSQL and full CI/CD via GitHub Actions.
 
-<br/>
-
-<kbd>TypeScript</kbd> <kbd>FastAPI</kbd> <kbd>React 18</kbd> <kbd>PostgreSQL</kbd> <kbd>GitHub Actions</kbd>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161B22" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=9ECE6A&labelColor=161B22" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22" alt="React"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=7AA2F7&labelColor=161B22" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=161B22" alt="GHA"/>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://github.com/bhatadarsh/elk-nginx-monitoring"><img align="right" src="https://img.shields.io/badge/🌐_Public-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+<p>
+  <a href="https://github.com/bhatadarsh/elk-nginx-monitoring"><img src="https://img.shields.io/badge/🌐_Public_Repo-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+</p>
 
 ### 🔍 [ELK Monitoring](https://github.com/bhatadarsh/elk-nginx-monitoring)
+
 *Production Log Observability*
 
-Containerized log observability pipeline shipping Nginx access and error streams via Filebeat into Elasticsearch indices for real-time visualization in Kibana.
+Containerized Nginx → Filebeat → Elasticsearch → Kibana pipeline for real-time log visualization and alerting. Fully Dockerized.
 
-<br/>
-
-<kbd>Docker Compose</kbd> <kbd>Elasticsearch</kbd> <kbd>Kibana</kbd> <kbd>Filebeat</kbd> <kbd>Nginx</kbd>
+<p>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=161B22" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-0D1117?style=flat-square&logo=elasticsearch&logoColor=005571&labelColor=161B22" alt="ES"/>
+  <img src="https://img.shields.io/badge/Kibana-0D1117?style=flat-square&logo=kibana&logoColor=005571&labelColor=161B22" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/Filebeat-0D1117?style=flat-square&logo=elastic&logoColor=7AA2F7&labelColor=161B22" alt="Filebeat"/>
+  <img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=9ECE6A&labelColor=161B22" alt="Nginx"/>
+</p>
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/bhatadarsh/Vehicle-licence-detection"><img align="right" src="https://img.shields.io/badge/🌐_Public-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+<p>
+  <a href="https://github.com/bhatadarsh/Vehicle-licence-detection"><img src="https://img.shields.io/badge/🌐_Public_Repo-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+</p>
 
 ### 🚗 [Licence Detection](https://github.com/bhatadarsh/Vehicle-licence-detection)
+
 *Computer Vision &amp; OpenCV*
 
-Real-time license plate detection pipeline utilizing OpenCV Haar Cascade classifiers with comprehensive engineering trade-off benchmarks against YOLO and HOG+SVM.
+Real-time license plate detection with Haar Cascade + comprehensive trade-off benchmarks against YOLO and HOG+SVM approaches.
 
-<br/>
-
-<kbd>Python</kbd> <kbd>OpenCV</kbd> <kbd>Haar Cascade</kbd> <kbd>Computer Vision</kbd>
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=7AA2F7&labelColor=161B22" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8&labelColor=161B22" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Haar_Cascade-0D1117?style=flat-square&logoColor=BB9AF7&labelColor=161B22" alt="Haar"/>
+</p>
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/bhatadarsh/FactFuse-A-Youtube-Transcript-Summarizer"><img align="right" src="https://img.shields.io/badge/🌐_Public-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+<p>
+  <a href="https://github.com/bhatadarsh/FactFuse-A-Youtube-Transcript-Summarizer"><img src="https://img.shields.io/badge/🌐_Public_Repo-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
+</p>
 
 ### 🎬 [FactFuse](https://github.com/bhatadarsh/FactFuse-A-Youtube-Transcript-Summarizer)
+
 *NLP Video Content Analysis*
 
-Video analysis engine extracting YouTube transcripts via API, executing NLP summarization, and calculating factual-confidence scores based on claim verification metrics.
+YouTube transcript extraction → NLP summarization → factual-confidence scoring based on claim verification metrics.
 
-<br/>
-
-<kbd>Python</kbd> <kbd>Flask</kbd> <kbd>NLP</kbd> <kbd>Transcript API</kbd>
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=7AA2F7&labelColor=161B22" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=ffffff&labelColor=161B22" alt="Flask"/>
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&logoColor=9ECE6A&labelColor=161B22" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Transcript_API-0D1117?style=flat-square&logoColor=BB9AF7&labelColor=161B22" alt="Transcript"/>
+</p>
 
 </td>
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></p>
+
+<!-- ═══════════════════════════════════════ -->
+<!-- RECRUITER DEEP DIVE -->
+<!-- ═══════════════════════════════════════ -->
 
 <details>
-<summary><b>🔍 Recruiter Deep Dive — Private Project Architectures</b></summary>
+<summary><b>🔍 Recruiter Deep Dive — Private Project Architectures &amp; Diagrams</b></summary>
 
 <br/>
 
-### AI HirePro Enterprise — LangGraph Stateful Pipeline
+### 🧠 AI HirePro Enterprise — LangGraph Orchestration
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161B22', 'edgeLabelBackground':'#0D1117', 'tertiaryColor': '#1a1b2e', 'primaryTextColor': '#c0caf5', 'lineColor': '#7AA2F7'}}}%%
+flowchart TD
+    A["📄 Job Description"] --> B["Node 1: JD Parser"]
+    B --> C["Node 2: Resume Scorer<br/>sentence-transformers"]
+    C --> D{"Gap Analysis"}
+    D -- "Skills Match" --> E["Node 3: Focus Selector"]
+    D -- "Low Match" --> F["❌ Filtered"]
+    E --> G["Node 4: AI Interviewer<br/>Groq Llama-3"]
+    G --> H["Node 5: Evaluator"]
+    H --> I{"Hire Decision"}
+    I -- "Proceed" --> J["Node 6: OnboardGuard"]
+    I -- "Reject" --> K["📧 Notification"]
+    J --> L["OCR + Gemini Entity Pull"]
+    L --> M["Fuzzy Identity Check<br/>Aadhar · PAN · I-9"]
+    M --> N["✅ Onboarding Report"]
+
+    subgraph storage ["🗄️ Polyglot Storage"]
+        P[("PostgreSQL")]
+        Q[("ChromaDB")]
+        R[("MongoDB")]
+        S[("SQLite")]
+    end
+
+    H --> P
+    C --> Q
+    L --> R
+    B --> S
+
+    style A fill:#238636,color:#fff,stroke:#238636
+    style N fill:#238636,color:#fff,stroke:#238636
+    style F fill:#da3633,color:#fff,stroke:#da3633
+    style K fill:#da3633,color:#fff,stroke:#da3633
+    style storage fill:#161B22,stroke:#30363d,color:#c9d1d9
+```
 
 - **Problem:** Manual hiring is slow, siloed across stages, and unscalable during high-volume recruitment.
 - **Workflow:** 6 LangGraph nodes execute JD parsing, semantic resume scoring via sentence-transformers, gap analysis, dynamic focus area selection, Groq Llama-3 interview orchestration, and OnboardGuard document verification.
-- **Polyglot Storage:** PostgreSQL for candidate schemas, ChromaDB for semantic embeddings, MongoDB for raw extracted documents, and SQLite for lightweight session state.
+- **Polyglot Storage:** PostgreSQL (candidate schemas) · ChromaDB (semantic embeddings) · MongoDB (raw documents) · SQLite (session state).
 - **Observability:** Granular distributed tracing across all agents instrumented with LangSmith.
 
 ---
 
-### NexAssess — Assessment Platform
+### 🏗️ Three-Tier EKS &amp; SRE Stack — Traffic &amp; Observability Flow
 
-- **Architecture:** Next.js 15 App Router + Prisma ORM connected to Supabase PostgreSQL, deployed to Vercel edge.
-- **AI Proctoring:** Real-time WebRTC streams with event-driven risk evaluation, capturing blur events, tab switching, and multiple face detections into an immutable audit trail.
-- **Reliability:** 507 automated unit, integration, and Playwright end-to-end tests gating every deployment in GitHub Actions.
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161B22', 'edgeLabelBackground':'#0D1117', 'tertiaryColor': '#1a1b2e', 'primaryTextColor': '#c0caf5', 'lineColor': '#BB9AF7'}}}%%
+flowchart LR
+    A["🌐 Route53 DNS"] --> B["ALB Ingress<br/>AWS LB Controller"]
+    B --> C["EKS Cluster"]
+
+    subgraph EKS ["☸️ Managed Node Groups"]
+        D["Frontend<br/>Pod + HPA"]
+        E["Backend API<br/>Pod + HPA"]
+        F["Worker<br/>Pod + HPA"]
+    end
+
+    C --> D
+    C --> E
+    C --> F
+    E --> G[("PostgreSQL<br/>RDS")]
+    F --> H[("Redis<br/>ElastiCache")]
+
+    subgraph SRE ["📡 Observability"]
+        I["Prometheus<br/>Scraper"]
+        J["Alertmanager<br/>Inhibition Rules"]
+        K["Grafana<br/>Dashboards"]
+    end
+
+    D -.-> I
+    E -.-> I
+    I --> J
+    I --> K
+
+    L["Cluster<br/>Autoscaler"] -.-> EKS
+
+    style EKS fill:#161B22,stroke:#30363d,color:#c9d1d9
+    style SRE fill:#161B22,stroke:#30363d,color:#c9d1d9
+```
+
+- **Terraform Modules:** Declarative VPC (isolated private/public subnets), EKS managed control plane, and autoscaling worker node groups with least-privilege IAM.
+- **Kubernetes &amp; Helm:** Declarative Deployments with Ingress routed via AWS LB Controller, HPA coupled with Cluster Autoscaler for dual-layer elasticity.
+- **SRE:** Prometheus scrapers target `node_exporter` and app metrics. Alertmanager groups by severity with inhibition rules preventing cascading alarm floods.
 
 ---
 
-### Three-Tier EKS — Infrastructure as Code
+### 🎯 NexAssess — Assessment Platform
 
-- **Terraform Modules:** Declarative VPC provisioning (isolated private/public subnets), EKS managed control plane, and autoscaling worker node groups with least-privilege IAM roles.
-- **Kubernetes &amp; Helm:** Declarative application deployment with Ingress routed via AWS Load Balancer Controller and horizontal autoscaling (HPA) coupled with Cluster Autoscaler.
-
----
-
-### SRE Monitoring Stack — Alerting as Code
-
-- **Observability:** Prometheus metric scrapers targeting `node_exporter` and custom service endpoints with unified `alert.rules.yml`.
-- **Alert Routing:** Alertmanager groups alerts by severity and namespace, with inhibition rules preventing cascading alarm floods during core service interruptions.
+- **Architecture:** Next.js 15 App Router + Prisma ORM → Supabase PostgreSQL, deployed to Vercel edge.
+- **AI Proctoring:** Real-time WebRTC streams with event-driven risk evaluation — blur events, tab switching, and multiple face detections stored in an immutable audit trail.
+- **Reliability:** 507 automated unit, integration, and Playwright E2E tests gating every deployment in GitHub Actions.
 
 </details>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider"/>
-</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></p>
 
-<!-- GITHUB ACTIVITY & 3D CALENDAR -->
+<!-- ═══════════════════════════════════════ -->
+<!-- GITHUB ACTIVITY & 3D CONTRIBUTION -->
+<!-- ═══════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://img.shields.io/badge/📊_ANALYTICS_%26_ACTIVITY-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="Analytics Badge" />
+  <img src="https://img.shields.io/badge/📊_ANALYTICS_%26_ACTIVITY-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="Analytics"/>
   <h3>GitHub Activity &amp; Contribution Metrics</h3>
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhatadarsh&theme=tokyonight" width="100%" alt="Profile Activity"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhatadarsh&theme=tokyonight" height="175" alt="Repos Per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhatadarsh&theme=tokyonight" height="175" alt="Most Commit Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhatadarsh&theme=tokyonight" height="175" alt="Stats"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhatadarsh&theme=tokyonight&utcOffset=5.5" height="175" alt="Productive Time"/>
-
-</div>
-
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhatadarsh&theme=tokyonight" width="100%" alt="Profile Activity"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhatadarsh&theme=tokyonight" width="24%" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhatadarsh&theme=tokyonight" width="24%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhatadarsh&theme=tokyonight" width="24%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhatadarsh&theme=tokyonight&utcOffset=5.5" width="24%" alt="Productive Time"/>
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></p>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/🌐_3D_CONTRIBUTIONS-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="3D Contributions" />
+  <img src="https://img.shields.io/badge/🌐_3D_CONTRIBUTIONS-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" alt="3D Contributions"/>
   <h3>Isometric Contribution Calendar</h3>
 </div>
 
@@ -346,9 +556,7 @@ Video analysis engine extracting YouTube transcripts via API, executing NLP summ
 
 </div>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider"/>
-</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></p>
 
 <div align="center">
 
