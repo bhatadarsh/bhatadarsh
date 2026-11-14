@@ -325,18 +325,19 @@ Plain-English question → Gemini generates SQL → BigQuery executes → auto-c
   <a href="https://github.com/bhatadarsh/keyword-rank-tracker"><img src="https://img.shields.io/badge/🌐_Public_Repo-161B22?style=flat-square&labelColor=0D1117&color=7aa2f7" alt="Public"/></a>
 </p>
 
-### 📈 [Rank Tracker](https://github.com/bhatadarsh/keyword-rank-tracker)
+### ⚡ [NexusRank](https://github.com/bhatadarsh/keyword-rank-tracker)
 
-*Full-Stack SERP Intelligence*
+*Open-Source SEO &amp; SERP Intelligence Engine*
 
-Automated Google SERP rank tracker across countries, languages, and device profiles with dual-mode SQLite/PostgreSQL and full CI/CD via GitHub Actions.
+Institutional-grade, zero-cost SERP analytics engine — automated multi-engine rank tracking, competitor Share-of-Voice (SoV %), cannibalization audits, and SERP X-Ray with AI briefs.
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161B22" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=9ECE6A&labelColor=161B22" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22" alt="React"/>
+  <img src="https://img.shields.io/badge/React_19-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22" alt="React 19"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161B22" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_v4-0D1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC&labelColor=161B22" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=7AA2F7&labelColor=161B22" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=161B22" alt="GHA"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=161B22" alt="Docker"/>
 </p>
 
 </td>
